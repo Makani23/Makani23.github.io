@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #337;
+}
+header {
+    background: #339;
+    color: red;
+    padding: 10px 0;
+    text-align: center;
+}
+nav a {
+    color: red;
+    margin: 0 15px;
+    text-decoration: none;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
